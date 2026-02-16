@@ -15,6 +15,8 @@ GOG stores a Cookie that store your region and with this, decides if an item can
    This will set your region to Netherlands and your language to German-Germany.
 3. Browser all games without restrictions
 
+To simplify this process just create a bookmark with this code as URL and open this bookmark when you are on GOG, this will automatically do the trick.
+
 ### VPN
 To buy items you need a VPN. For example the free VPN of Proton.
 1. Connect to a region that is not affected by region-lock (List of affected countrys: https://www.gog.com/forum/general/regional_locked_games_on_gog_v2/page1)
