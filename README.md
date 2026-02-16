@@ -22,7 +22,7 @@ To buy items you need a VPN. For example the free VPN of Proton.
 3. Buy games you want
 
 ## Blocked Games
-See here: https://www.gog.com/forum/general/regional_locked_games_on_gog_v2/
+See here: https://www.gog.com/forum/general/regional_locked_games_on_gog_v2/post624
 
 ## Credits
 Thanks to Gabelvampir who showed how to do this (https://github.com/Gabelvampir/Knowledge/blob/master/GOG%20anti-region%20lock)
